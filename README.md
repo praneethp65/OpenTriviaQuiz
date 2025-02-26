@@ -2,6 +2,10 @@
 
 A simple, interactive quiz application built with HTML, CSS, and JavaScript. This app fetches questions from the [Open Trivia DB](https://opentdb.com) API, randomly selects five questions per session, and displays your score at the end. It features a clean, modern design that's perfect for learning or testing your knowledge.
 
+-URL: https://praneethp65.github.io/OpenTriviaQuiz/
+
+
+
 ## Features
 
 - **Dynamic Quiz Generation:**  
